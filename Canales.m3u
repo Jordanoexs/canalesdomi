@@ -1,0 +1,42 @@
+#EXTM3U
+
+
+#EXTINF:-1 ,CANAL 40 fuego tv
+https://video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8
+
+#EXTINF:-1 ,Canal 29 TELE UNIVERSO
+https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
+
+#EXTINF:-1 ,Canal 7 Antena 7
+https://d3qhvst5vzq4y9.cloudfront.net/hls/antena7.m3u8
+
+#EXTINF:-1 ,CANAL 21 Antena 21
+https://d3qhvst5vzq4y9.cloudfront.net/hls/canal21.m3u8
+
+#EXTINF:-1 ,CANAL 36 Bajo Techo tv
+https://cdn4.hostlagarto.com:8081/static/bajotechotv/playlist.m3u8
+
+
+#EXTINF:-1 ,Canal 4
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
+
+
+#EXTINF:-1 ,Canal 25
+https://ss3.domint.net:3150/c25_str/canal25/playlist.m3u8
+
+#EXTINF:-1 ,CANAL 56
+https://cdn5.streamgato.us:3371/live/canal56live.m3u8
+
+#EXTINF:-1 ,Canal 37 CDN
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/playlist.m3u8
+
+#EXTINF:-1 ,Canal 53 Lunatv
+https://ss2.domint.net:3228/luna_str/lunatv/playlist.m3u8
+
+#EXTINF:-1 ,CANAL 43 MEGAVISION
+http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
+
+#EXTINF:-1 ,Canal 6 Ready tv
+http://190.103.183.24:1935/ReadyTV/ReadyHD/playlist.m3u8
+
+#EXTINF:-1 ,
